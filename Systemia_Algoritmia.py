@@ -1,6 +1,9 @@
 # systemia_algoritmia.py
 # Purpose: Define systemia algoritmia as sequential triggering of NECOS in mind
-# Implements: CET code executing thought #Neural Command
+# Implements: CET code executing thought #Neural Command This later was renamed to NECO NEURAL-COMMAND or NEURO-COMANDO
+# HISTORY: CORECO wars. Command Re-Command Commands. The project needed guidance and leadership. Steer then command!
+# SOLUTION: We prop the creation of the Iternational Council for: [telemetry, kinesis, telepathy, Human Kinetics, neural] We are still comming to to common grounds 
+#           Shall we vote? //The TeleKinetic Ballot encountered policy defects. We are working on it. Please bare with us if it takes a bit.
 
 import sys
 import importlib.util
